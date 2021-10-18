@@ -2,13 +2,13 @@
 
 ## Overview
 
-Here, we examine amazon review data to identify possible bias amongst reviewers.
+Here, we examine amazon product review data to identify possible bias.
 
-Amazon Vine is a program by which manufacturers and publishers pay to have their products reviewed, and in turn the Amazon Vine members receive free products.  We will look at the numbers to see if these reviews are biased and skewing the overall ratings of their products.  The data set we are looking at here are for musical instruments.
+Amazon Vine is a program by which manufacturers and publishers pay to have their products reviewed, and in turn Amazon Vine members receive free products.  We will look at the numbers to see if these reviews are biased, skewing the overall ratings of products.  The data set we are looking at here is for musical instruments.
 
 ## Results
 
-First, we filtered down the dataset to only include common products and helpful reviews. This means reviews which earned over 20 votes and at least 50% ratio of helpful votes to total votes. The next step is to calculate total reviews, total 5-star reviews, and the percentage of total reviews which are paid vs. unpaid. We also calculated the totals of reviews, the 5-star reviews, and the 5-star percentages amongst each group, paid vs. unpaid.
+First, we filter down the dataset to only include common products and helpful reviews. This means reviews which earned over 20 votes and at least a 50% ratio of helpful votes to total votes. The next step is to calculate total reviews, total 5-star reviews, and the percentage of total reviews which are paid vs. unpaid. We also calculate the total reviews, the 5-star reviews, and the 5-star percentages amongst each group, paid vs. unpaid.
 
 The counts and percentages are shown here:
 
